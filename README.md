@@ -7,12 +7,12 @@ Fun witth Java2D
 
 >make or
 
->javac com/crazedout/asteroids/*.java
->jar cvfe astroids.jar com.crazedout.asteroids.Asteroids com/crazedout/asteroids/*.class
+>javac com/crazedout/asteroids/*.java<br>
+>jar cvfe asteroids.jar com.crazedout.asteroids.Asteroids com/crazedout/asteroids/*.class
 <p>
 Run:
->dubble click on jar icon or
+>dubble click on jar icon or<br>
 
->java -jar asteroids.jar
+>java -jar asteroids.jar<p>
 
 Fredrik Roos info@crazedout.com
