@@ -5,14 +5,18 @@ Fun witth Java2D
 
 <p>
 
->make or
+>$ make<br>
+>or<br>
 
->javac com/crazedout/asteroids/\*.java<br>
->jar cvfe asteroids.jar com.crazedout.asteroids.Asteroids com/crazedout/asteroids/\*.class
+>$ javac com/crazedout/asteroids/\*.java<br>
+>$ jar cvfe asteroids.jar com.crazedout.asteroids.Asteroids com/crazedout/asteroids/\*.class
 <p>
 Run:
->dubble click on jar icon or<br>
+<br>
+>dubble click on jar icon<br>
+
+>or<br>
 
 >java -jar asteroids.jar<p>
 
-Fredrik Roos info@crazedout.com
+Rock On / Fredrik Roos info@crazedout.com
