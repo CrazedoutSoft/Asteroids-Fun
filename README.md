@@ -13,7 +13,7 @@ Fun witth Java2D
 <p>
 Run:
 <br>
->dubble click on jar icon<br>
+> Dubble click on asteroids.jar icon<br>
 
 >or<br>
 
