@@ -1,7 +1,7 @@
 # Asteroids-Fun
 Fun witth Java2D<p>
 One of several "Arcade-clones" I made for fun.<br>
-Goal was only only one (1) source file. But I ended up with the souns file separate. (Ugly).
+Goal was only only one (1) source file. But I ended up with the sounds file separate. (Ugly I know).
 <p>
 
 <img src="http://crazedout.com/screen.png">
